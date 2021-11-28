@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="food">
+    <file>새우 튀김-1.jfif</file>
+    <file>김말이 튀김-1.jfif</file>
+    <file>오징어 튀김-1.jfif</file>
+    <file>오징어 순대-1.jfif</file>
+    <file>밀떡-1.jpg</file>
+    <file>쌀떡-1.jpg</file>
+    <file>찹쌀순대 -1.jpg</file>
+  </qresource>
+</RCC>
